@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # 1-calculation.py
-# 
 
 if __name__ == "__main__":
     """Print the Additional, difference, multiple and Division  of 10 and 5."""
