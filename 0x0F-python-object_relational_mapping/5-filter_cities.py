@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Take in the name of a state as an argument and list all
+""" Takes in the name of a state as an argument and list all
     cities of that state, using the database hbtn_0e_4_usa """
 
 import MySQLdb
