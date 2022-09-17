@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Print the State object with the name passed
+""" print the State object with the name passed
     as argument from the database hbtn_0e_6_usa """
 
 import sys
