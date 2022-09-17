@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Add the State object 'Louisiana'
+""" Add _the State object 'Louisiana'
     to the database hbtn_0e_6_usa """
 
 import sys
