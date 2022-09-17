@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """ Change the name of a State object
-    from the database hbtn_0e_6_usa """
+    from the Database hbtn_0e_6_usa """
 
 import sys
 from model_state import Base, State
